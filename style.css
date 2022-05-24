@@ -1,10 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch&display=swap');
 h1 {
     color:rgb(103, 156, 184);
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Chakra Petch';
+    font-size: 48pt;
 
 
 }
 body {
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: "Chakra Petch";
     color: rgb(255, 168, 127);
+    background-color: brown;
+}
+img {
+    width:80%;
+}
+.container{
+    350px;
 }
